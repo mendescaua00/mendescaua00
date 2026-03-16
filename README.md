@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi  👋, Im Cauã Mendes
 
-<!--
-**mendescaua00/mendescaua00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estudante de Engenharia da Computação com foco em Automações, Integração de Sistemas e Inteligência Artificial aplicada a processos**.
 
-Here are some ideas to get you started:
+Tenho interesse em construir soluções automatizadas que conectem diferentes sistemas, reduzam tarefas manuais e aumentem eficiência operacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🧠What i do 
+
+• 🤖 Automação com Inteligência Artificial e agentes automatizados
+
+• 🔗 Integração de sistemas utilizando APIs e Webhooks
+• ⚙️ Automação de workflows com n8n
+
+• 📩 Sistemas automatizados de atendimento (bots e mensageria)
+
+• 🗂 Automação de captura e processamento de dados
+
+• 🐍 Python para automações e manipulação de dados
+
+---
+
+### 🤖 TechStack
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img
+    algin="left"
+    alt="ReactNative"
+    title="ReactNative"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"   
+/>
+<img
+    algin="left"
+    alt="SupaBase"
+    title="SupaBase"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"   
+/>
+
+
+<br/>
+
+_“A verdadeira sabedoria está em reconhecer o quanto ainda há para aprender.”_
+
+
