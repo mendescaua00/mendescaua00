@@ -75,7 +75,7 @@ Tenho interesse em construir soluções automatizadas que conectem diferentes si
 <br/><br/>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V2bXk2eXN0dmxhMnBqNXFjZ2hxcWZuOGdqN3J4aGgxbHF2YW1wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUp9Nb1czvHMY/giphy.gif" width="800px">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V2bXk2eXN0dmxhMnBqNXFjZ2hxcWZuOGdqN3J4aGgxbHF2YW1wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUp9Nb1czvHMY/giphy.gif" width="500px">
 </p>
 
 <br/>
