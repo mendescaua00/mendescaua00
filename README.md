@@ -11,6 +11,7 @@ Tenho interesse em construir soluções automatizadas que conectem diferentes si
 • 🤖 Automação com Inteligência Artificial e agentes automatizados
 
 • 🔗 Integração de sistemas utilizando APIs e Webhooks
+
 • ⚙️ Automação de workflows com n8n
 
 • 📩 Sistemas automatizados de atendimento (bots e mensageria)
@@ -62,6 +63,7 @@ Tenho interesse em construir soluções automatizadas que conectem diferentes si
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"   
 />
+
 <img
     algin="left"
     alt="SupaBase"
